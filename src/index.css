@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+  /* background-color: #121212; */
+  color: rgb(0, 0, 0);
+}
+
+#btn-back-to-top {
+  position: fixed;
+  display: none;
+}
